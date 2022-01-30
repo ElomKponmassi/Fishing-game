@@ -1,5 +1,5 @@
 # Fishing-game
-A JavaScript and CSS fishing game built on a website. 
+A JavaScript fishing game built on a website with HTML and CSS. 
 
 Press the start button and wait for a bite.
 A red exclamation point will notify you if there is a bite.
